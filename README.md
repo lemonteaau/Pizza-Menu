@@ -1,6 +1,6 @@
 # Pizza-Menu
 
-This is a simple pizza menu application built with React, based on the project from JONAS SCHMEDTMANN's "The Ultimate React Course". The app displays a list of pizzas with their names, ingredients, prices, and images. It also includes a header, a footer, and a dynamic "Order" button that appears only during the restaurant's open hours.
+This is a simple pizza menu application built with React. The app displays a list of pizzas with their names, ingredients, prices, and images. It also includes a header, a footer, and a dynamic "Order" button that appears only during the restaurant's open hours.
 
 ![image](https://github.com/lemonteaau/Pizza-Menu/assets/104964583/8e00cca8-29c4-4e61-8e8c-18c9649eb6d7)
 
